@@ -1,3 +1,5 @@
+// for this part of the code you first need to understand the concept of how stack and heap is use in java for memory allotment
+
 package com.MemoryManagement;
 
 
